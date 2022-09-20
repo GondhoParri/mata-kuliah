@@ -1,1 +1,1 @@
-# mata-kuliah
+# praktikum
